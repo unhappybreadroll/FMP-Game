@@ -2285,6 +2285,123 @@ TextureImporter:
   - first:
       213: -4409739361719256859
     second: pokemon tile set_398
+  - first:
+      213: 9005577355718109473
+    second: pokemon tile set_399
+  - first:
+      213: 5823044370160284887
+    second: pokemon tile set_400
+  - first:
+      213: -6551128710567118467
+    second: pokemon tile set_401
+  - first:
+      213: -1466997295053471485
+    second: pokemon tile set_402
+  - first:
+      213: -7760086468992762159
+    second: pokemon tile set_403
+  - first:
+      213: 8540720883193762132
+    second: sand
+  - first:
+      213: 4080045283700526610
+    second: pokemon tile set_405
+  - first:
+      213: 6001879034442307659
+    second: pokemon tile set_406
+  - first:
+      213: 120508030138061068
+    second: pokemon tile set_407
+  - first:
+      213: 391665527106346246
+    second: pokemon tile set_408
+  - first:
+      213: 7141126378429210605
+    second: pokemon tile set_409
+  - first:
+      213: 7986442663431301892
+    second: pokemon tile set_410
+  - first:
+      213: 8889586012156412727
+    second: pokemon tile set_361
+  - first:
+      213: 317878909680968850
+    second: pokemon tile set_411
+  - first:
+      213: 8388217286310304644
+    second: pokemon tile set_412
+  - first:
+      213: 2484423772977782943
+    second: pokemon tile set_413
+  - first:
+      213: 5981456962047343522
+    second: pokemon tile set_414
+  - first:
+      213: 8586106622174235507
+    second: pokemon tile set_415
+  - first:
+      213: 6363082784949077804
+    second: pokemon tile set_416
+  - first:
+      213: -5962248640198553468
+    second: pokemon tile set_417
+  - first:
+      213: 3216204284487064552
+    second: pokemon tile set_418
+  - first:
+      213: -8283688640928222132
+    second: pokemon tile set_419
+  - first:
+      213: -287762372578971959
+    second: pokemon tile set_420
+  - first:
+      213: -6012389619354067769
+    second: pokemon tile set_421
+  - first:
+      213: -5850643441907311718
+    second: pokemon tile set_422
+  - first:
+      213: -2760060757410406386
+    second: pokemon tile set_423
+  - first:
+      213: -2092125712028431470
+    second: pokemon tile set_424
+  - first:
+      213: -7888867094688620919
+    second: pokemon tile set_425
+  - first:
+      213: 7880425945067732748
+    second: pokemon tile set_426
+  - first:
+      213: -2570154073104433557
+    second: pokemon tile set_427
+  - first:
+      213: 1135066395663590367
+    second: pokemon tile set_428
+  - first:
+      213: -7117747675245316331
+    second: pokemon tile set_429
+  - first:
+      213: 1719010298539500453
+    second: pokemon tile set_430
+  - first:
+      213: 8946801908707822471
+    second: pokemon tile set_431
+  - first:
+      213: 6636262752057374494
+    second: pokemon tile set_432
+  - first:
+      213: -2841314952802218569
+    second: pokemon tile set_433
+  - first:
+      213: 7248136477107315465
+    second: pokemon tile set_434
+  - first:
+      213: 5038858057995312010
+    second: pokemon tile set_435
+  - first:
+      213: 5285030752546380487
+    second: pokemon tile set_436
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -2441,27 +2558,6 @@ TextureImporter:
   spriteSheet:
     serializedVersion: 2
     sprites:
-    - serializedVersion: 2
-      name: pokemon tile set_0
-      rect:
-        serializedVersion: 2
-        x: 821
-        y: 1288
-        width: 38
-        height: 47
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 62b20d0d4825a21f0800000000000000
-      internalID: -1068951231154607322
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     - serializedVersion: 2
       name: pokemon tile set_1
       rect:
@@ -4605,27 +4701,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pokemon tile set_103
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 1903
-        width: 530
-        height: 97
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8ca3590798832d950800000000000000
-      internalID: 6472297777435327176
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: pokemon tile set_104
       rect:
         serializedVersion: 2
@@ -4818,9 +4893,9 @@ TextureImporter:
       name: pokemon tile set_113
       rect:
         serializedVersion: 2
-        x: 1584
+        x: 1583
         y: 1918
-        width: 17
+        width: 18
         height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -4915,48 +4990,6 @@ TextureImporter:
       bones: []
       spriteID: a39fb5b60eecc7770800000000000000
       internalID: 8609984050894731578
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pokemon tile set_118
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 1807
-        width: 287
-        height: 82
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fc202d2950301c110800000000000000
-      internalID: 1279307091622888143
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: pokemon tile set_120
-      rect:
-        serializedVersion: 2
-        x: 1617
-        y: 1887
-        width: 64
-        height: 44
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 64d382927d981b650800000000000000
-      internalID: 6246925715341065542
       vertices: []
       indices: 
       edges: []
@@ -5154,10 +5187,10 @@ TextureImporter:
       name: pokemon tile set_130
       rect:
         serializedVersion: 2
-        x: 15
+        x: 17
         y: 1791
-        width: 66
-        height: 14
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -5281,9 +5314,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1503
-        y: 1792
-        width: 17
-        height: 31
+        y: 1793
+        width: 14
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -10422,27 +10455,6 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pokemon tile set_361
-      rect:
-        serializedVersion: 2
-        x: 745
-        y: 2099
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0662fd4dba1814ad0800000000000000
-      internalID: -2719750124944284064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: pokemon tile set_387
       rect:
         serializedVersion: 2
@@ -10816,6 +10828,909 @@ TextureImporter:
       bones: []
       spriteID: 5e87aa01a657dc2c0800000000000000
       internalID: -4409739361719256859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_399
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2064
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12921e434ec3afc70800000000000000
+      internalID: 9005577355718109473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_400
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2048
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4fdbab00c9fc050800000000000000
+      internalID: 5823044370160284887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_402
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1791
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30101ed8bbd24abe0800000000000000
+      internalID: -1466997295053471485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_403
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1791
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1defe5d9872ae4490800000000000000
+      internalID: -7760086468992762159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_401
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2017
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79b8c8a527b515a0800000000000000
+      internalID: -6551128710567118467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_0
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1984
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a613cac5ef23fb0800000000000000
+      internalID: -4669390189650416994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_103
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1952
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78104da2b5e19580800000000000000
+      internalID: -8822017639468492676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_361
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1952
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7334dd601672e5b70800000000000000
+      internalID: 8889586012156412727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1968
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4515680846cb68670800000000000000
+      internalID: 8540720883193762132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_405
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1984
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e4a7a819b3f9830800000000000000
+      internalID: 4080045283700526610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_406
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1953
+        width: 2
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b485cc8be25fa4350800000000000000
+      internalID: 6001879034442307659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_407
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1953
+        width: 4
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0116f83a612ca100800000000000000
+      internalID: 120508030138061068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_408
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1968
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d90f5c8b97f6500800000000000000
+      internalID: 391665527106346246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_409
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1984
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defd17a1b906a1360800000000000000
+      internalID: 7141126378429210605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_410
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1968
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40be8d4d94b85de60800000000000000
+      internalID: 7986442663431301892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_411
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1952
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2946f152f25596400800000000000000
+      internalID: 317878909680968850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_413
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1968
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9060eb22427a7220800000000000000
+      internalID: 2484423772977782943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_412
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1952
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b1151ed2fe86470800000000000000
+      internalID: 8388217286310304644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_414
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1984
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab7e167a67620350800000000000000
+      internalID: 5981456962047343522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_415
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1952
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b03525b7af72770800000000000000
+      internalID: 8586106622174235507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_416
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1968
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c270b4174163e4850800000000000000
+      internalID: 6363082784949077804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_417
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1984
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480d86a7376d14da0800000000000000
+      internalID: -5962248640198553468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_418
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1984
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebd0fda1c042ac20800000000000000
+      internalID: 3216204284487064552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_419
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1952
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44f887e11d6a0d80800000000000000
+      internalID: -8283688640928222132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_420
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1968
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cee4b295a9a10cf0800000000000000
+      internalID: -287762372578971959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_120
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1872
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d382927d981b650800000000000000
+      internalID: 6246925715341065542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_421
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1872
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc97270f73bf8ca0800000000000000
+      internalID: -6012389619354067769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_422
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1856
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b55a1a9c65ecea0800000000000000
+      internalID: -5850643441907311718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_423
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1856
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00ae045d5b42b9d0800000000000000
+      internalID: -2760060757410406386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_424
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1840
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b851ddfb647f2e0800000000000000
+      internalID: -2092125712028431470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_425
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1872
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e11d4ac2d158290800000000000000
+      internalID: -7888867094688620919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_426
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1840
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fb88e05a5ec5d60800000000000000
+      internalID: 7880425945067732748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_427
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1840
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e369edc7af45cd0800000000000000
+      internalID: -2570154073104433557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_428
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1856
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3e20e7fd090cf00800000000000000
+      internalID: 1135066395663590367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_118
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1872
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6b65cfd94748150800000000000000
+      internalID: 5873948035890198266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_429
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1872
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517f328633ea83d90800000000000000
+      internalID: -7117747675245316331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_430
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1872
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a36fa142c62bd710800000000000000
+      internalID: 1719010298539500453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_431
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1856
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b015c0fec692c70800000000000000
+      internalID: 8946801908707822471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_432
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1856
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17398400ddb81c50800000000000000
+      internalID: 6636262752057374494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_433
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1856
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdc737ba1f9198d0800000000000000
+      internalID: -2841314952802218569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_434
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1840
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903688149bd869460800000000000000
+      internalID: 7248136477107315465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_435
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1840
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bdc6ce4be9de540800000000000000
+      internalID: 5038858057995312010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon tile set_436
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1840
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cada88d773385940800000000000000
+      internalID: 5285030752546380487
       vertices: []
       indices: 
       edges: []
